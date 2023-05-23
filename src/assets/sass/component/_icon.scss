@@ -1,0 +1,53 @@
+
+
+
+
+// .iconlist{
+//    text-align: center;
+
+
+   // li{
+      
+   //    display: inline-block;
+   //    margin:10px;
+   //    a{
+   //     color:$color-thirdary
+   //    }
+   // }
+
+
+
+
+
+.footer{
+   .footerlink{
+      margin:120px 0 0 0;
+      li, a{
+         display: block;
+            
+      }
+   
+   }
+}
+
+.footer{
+
+.iconlist{
+   // display: inline-block;
+   margin:62px 0 0 0;
+   text-align: center;
+   li, a{
+      display: inline-block;
+      color: $color-primary;
+      padding: 10px;
+   }
+}
+  }
+
+
+
+
+
+  .footer .footerlink li a {
+   color: white;
+}
